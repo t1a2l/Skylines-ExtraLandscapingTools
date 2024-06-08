@@ -1,8 +1,7 @@
-[submodule "NaturalResourcesBrush/OptionsFramework"]
-	path = NaturalResourcesBrush/OptionsFramework
-	url = https://github.com/bloodypenguin/OptionsFramework
-	branch = customization/Skylines-NaturalResourcesBrush
 [submodule "NaturalResourcesBrush/RedirectionFramework"]
 	path = NaturalResourcesBrush/RedirectionFramework
 	url = https://github.com/bloodypenguin/RedirectionFramework
 	branch = customization/Skylines-NaturalResourcesBrush
+[submodule "NaturalResourcesBrush/--force"]
+	path = NaturalResourcesBrush/--force
+	url = https://github.com/bloodypenguin/OptionsFramework
